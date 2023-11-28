@@ -48,34 +48,50 @@ if you wish to stage mutilple files type in "git add ."
 If you wish to commit files type in "git commit -m "message""
 If you wish to push files to the to the remote repository type in "git push origin "URL"
 
-Screenshots of webpage
+Home
 
 ![home](home.png)
-![home](Screenshot 2023-11-26 132120.png)
-
-
+![home](home1.png)
+![home](home3.png)
 
 screenshots of Homepage
 
+About
+![about](About.png)
+![about](about1.png)
+![about](about2.png)
+![about](about3.png)
+![about](about4.png)
 
 Screenshots of About page
 
+Catalog
+![catalog](catalog.png)
+![catalog](catalog1.png)
+![catalog](catalog2.png)
+![catalog](catalog3.png)
 
  Screenshots of Catalog
 
+Research
+![research](research.png)
+![research](research1.png)
+![research](research2.png)
+
 Screenshot of Research page
 
+Event
+![event](event1.png)
+![event](events2.png)
+![event](event3.jpeg)
 
 Screenshot of Events page
 
-
+Contact
+![Contact](contact.png)
+![Contact](contact1.png)
+![Contact](contact2.png)
 Screenshot of Contact page
-
-
-
-
-
-
 
 Languages used
 1. HTML
