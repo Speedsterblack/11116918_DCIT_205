@@ -51,6 +51,8 @@ If you wish to push files to the to the remote repository type in "git push orig
 Screenshots of webpage
 
 ![home](home.png)
+
+
 screenshots of Homepage
 
 
