@@ -50,36 +50,21 @@ If you wish to push files to the to the remote repository type in "git push orig
 
 Screenshots of webpage
 
-![Screenshot](Screenshot 2023-11-26 132044.png)
-!(<Screenshot 2023-11-26 132120.png>)
-!(<Screenshot 2023-11-26 132138.png>)
+![home](home.png)
 screenshots of Homepage
 
-!(<Screenshot 2023-11-26 132836.png>)
-!(<Screenshot 2023-11-26 132851.png>)
-!(<Screenshot 2023-11-26 132912.png>)
-!(<Screenshot 2023-11-26 132931.png>)
-!(<Screenshot 2023-11-26 132944.png>)
+
 Screenshots of About page
 
- !(<Screenshot 2023-11-26 134531.png>) 
- !(<Screenshot 2023-11-26 134501.png>) 
- !(<Screenshot 2023-11-26 134436.png>)
- !(<Screenshot 2023-11-26 134410.png>)
+
  Screenshots of Catalog
 
-!(<Screenshot 2023-11-26 134817.png>)
-!(<Screenshot 2023-11-26 134838.png>)
-!(<Screenshot 2023-11-26 134852.png>)
 Screenshot of Research page
 
-!(<Screenshot 2023-11-26 135156.png>)
-!(<Screenshot 2023-11-26 135136.png>)
+
 Screenshot of Events page
 
-!(<Screenshot 2023-11-26 135430.png>) 
-!(<Screenshot 2023-11-26 135408.png>) 
-!(<Screenshot 2023-11-26 135350.png>)
+
 Screenshot of Contact page
 
 
