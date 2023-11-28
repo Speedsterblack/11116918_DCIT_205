@@ -50,7 +50,7 @@ If you wish to push files to the to the remote repository type in "git push orig
 
 Screenshots of webpage
 
-![Screenshot](C:\Users\speed\OneDrive\Desktop\11116918_DCIT205\11116918_DCIT_205\Screenshot 2023-11-26 132044.png)
+![Screenshot](Screenshot 2023-11-26 132044.png)
 !(<Screenshot 2023-11-26 132120.png>)
 !(<Screenshot 2023-11-26 132138.png>)
 screenshots of Homepage
